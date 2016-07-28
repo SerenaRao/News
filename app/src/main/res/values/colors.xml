@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#eb413d</color>
+    <color name="colorPrimaryDark">#eb413d</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="holo_purple">#aa66cc</color>
+    <!-- A light Holo shade of orange -->
+    <color name="holo_orange_light">#ffbb33</color>
+    <!-- A dark Holo shade of orange -->
+    <color name="holo_orange_dark">#ff8800</color>
+
+    <color name="colorTitle">#eb413d</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#aaaaaa</color>
+    <color name="red_text">#ee3f36</color>
+    <color name="light_gray">#f4dede</color>
+
+    <color name="item_back_normal">#f4dede</color>
+    <color name="line_color">#d8d8d8</color>
+    <color name="item_back_press">#d7d7d7</color>
+    <color name="white_70">#F2ffffff</color>
+
+    <color name="feedback_title1">#469CE7</color>
+    <color name="feedback_line">#E5E5E5</color>
+
+    <color name="primary">#3C515C</color>
+    <color name="primary_dark">#142E3C</color>
+    <color name="accent">#40C4FF</color>
+    <color name="black_20">#33000000</color>
+    <color name="white_20">#33FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <drawable name="normal">#FFFFFFFF</drawable>
+    <drawable name="pressed">#33000000</drawable>
+    <drawable name="text_red">#ee3f36</drawable>
+
+    <color name="other_tips">#FFFCFCFC</color>
+    <color name="edit_tips">#FFECECEC</color>
+
+    <color name="icon_enabled">#FFFFFFFF</color>
+    <color name="icon_disabled">#FF63727B</color>
+
+    <color name="medium_text_enabled">#FF000000</color>
+    <color name="medium_text_disabled">#4D000000</color>
+
+    <color name="light_blue_500">#03A9F4</color>
+    <color name="cyan_500">#00BCD4</color>
+    <color name="teal_500">#009688</color>
+    <color name="green_500">#4CAF50</color>
+    <color name="light_green_500">#8BC34A</color>
+    <color name="gray_item">#FFECECEC</color>
+    <color name="gray_item_press">#dad8d8</color>
+    <color name="gray_light">#f3f3f3</color>
+    <color name="gray_deep">#9E9E9E</color>
+
+</resources>

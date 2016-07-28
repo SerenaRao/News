@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bottom_tab_title">
+        <item>新闻</item>
+        <item>阅读</item>
+        <item>视频</item>
+        <item>热点</item>
+        <item>我</item>
+    </string-array>
+
+    <string-array name="news_tips">
+    <item>头条</item>
+    <item>精选</item>
+    <item>娱乐</item>
+    <item>体育</item>
+    <item>财经</item>
+    <item>科技</item>
+    <item>时尚</item>
+    <item>轻松一刻</item>
+    <item>军事</item>
+    <item>历史</item>
+    <item>家居</item>
+    <item>独家</item>
+    <item>游戏</item>
+    <item>健康</item>
+    <item>政务</item>
+    <item>彩票</item>
+    </string-array>
+
+    <string-array name="sub_url">
+        <item>T1348647909107</item>
+        <item>T1467284926140</item>
+        <item>T1348648517839</item>
+        <item>T1348649079062</item>
+        <item>T1348648756099</item>
+        <item>T1348649580692</item>
+        <item>T1348650593803</item>
+        <item>T1350383429665</item>
+        <item>T1348648141035</item>
+        <item>T1368497029546</item>
+        <item>T1348654105308</item>
+        <item>T1370583240249</item>
+        <item>T1348654151579</item>
+        <item>T1414389941036</item>
+        <item>T1414142214384</item>
+        <item>T1356600029035</item>
+    </string-array>
+
+    <string-array name="drag_tips">
+        <item>头条</item>
+        <item>娱乐</item>
+        <item>热点</item>
+        <item>体育</item>
+        <item>网易号</item>
+        <item>北京</item>
+        <item>财经</item>
+        <item>科技</item>
+        <item>汽车</item>
+        <item>时尚</item>
+        <item>图片</item>
+        <item>直播</item>
+        <item>跟帖</item>
+        <item>房产</item>
+        <item>彩票</item>
+        <item>轻松一刻</item>
+        <item>段子</item>
+        <item>军事</item>
+        <item>历史</item>
+        <item>家居</item>
+        <item>独家</item>
+        <item>游戏</item>
+        <item>健康</item>
+        <item>政务</item>
+        <item>漫画</item>
+    </string-array>
+
+    <string-array name="add_tips">
+        <item>NBA</item>
+        <item>社会</item>
+        <item>影视歌</item>
+        <item>中国足球</item>
+        <item>欧洲杯</item>
+        <item>CBA</item>
+        <item>跑步</item>
+        <item>手机</item>
+        <item>数码</item>
+        <item>移动互联</item>
+        <item>云课堂</item>
+        <item>公开课</item>
+        <item>旅游</item>
+        <item>读书</item>
+        <item>酒香</item>
+        <item>教育</item>
+        <item>亲子</item>
+        <item>暴雪游戏</item>
+        <item>态度营销</item>
+        <item>情感</item>
+        <item>艺术</item>
+        <item>海外</item>
+        <item>博客</item>
+        <item>论坛</item>
+        <item>美女</item>
+        <item>型男</item>
+        <item>萌宠</item>
+    </string-array>
+
+    <array name="bottom_tab_icon">
+        <item>@drawable/tab_news</item>
+        <item>@drawable/tab_read</item>
+        <item>@drawable/tab_video</item>
+        <item>@drawable/tab_topic</item>
+        <item>@drawable/tab_mine</item>
+    </array>
+
+    <integer-array name="custom_tab_colors">
+        <item>@color/light_blue_500</item>
+        <item>@color/cyan_500</item>
+        <item>@color/teal_500</item>
+        <item>@color/green_500</item>
+        <item>@color/light_green_500</item>
+    </integer-array>
+</resources>
